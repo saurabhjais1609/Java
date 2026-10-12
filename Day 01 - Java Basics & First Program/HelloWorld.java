@@ -1,6 +1,7 @@
 /*
     Introduction to Java
-    Java is a widely used programming language for building web, desktop, mobile, and enterprise applications.It is known for its simple syntax, portability, and powerful features that make development easier and more secure.
+    Java is a widely used programming language for building web, desktop, mobile, and enterprise applications.
+	It is known for its simple syntax, portability, and powerful features that make development easier and more secure.
 */
 
 /*
